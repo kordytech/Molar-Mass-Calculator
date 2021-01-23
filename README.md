@@ -1,8 +1,7 @@
 # Molar Mass Calculator
-================================
-Curtis J Kordyban
-Christofer Tavano
-Created: October 2, 2020
+* Curtis J Kordyban
+* Christofer Tavano
+* Created: October 2, 2020
  
 Periodic Table from : https://ptable.com/?lang=en#Properties
 
