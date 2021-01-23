@@ -11,5 +11,4 @@ About :
  -Uses regular expressions to evaluate formula for existing elements
  -LINQ used for displaying periodic table in gridview
  -Added text file resource for elements 
-
-# *Support Class* - Element.cs 
+ *Support Class* - Element.cs 
